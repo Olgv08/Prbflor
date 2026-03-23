@@ -248,7 +248,7 @@ BODY {
 .container {
   position: relative;
   padding: 3px;
-  background: linear-gradient(90deg, #03a9f4, #f441a5);
+  background: linear-gradient(90deg, #ffd700, #ff8c00);
   border-radius: 0.9em;
   transition: all 0.4s ease;
 }
@@ -263,7 +263,7 @@ BODY {
   transition: filter 0.4s ease;
 }
 .container:hover::before {
-  background: linear-gradient(90deg, #03a9f4, #f441a5);
+  background: linear-gradient(90deg, #ffd700, #ffb300);
   filter: blur(1.2em);
 }
 .container:active::before {
