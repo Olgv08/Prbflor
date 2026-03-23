@@ -26,7 +26,7 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
   'Te hice esta flor',
   'Espero te guste',
   'Te kittyquiero',
-  'Mucho❤️'
+  'Mucho❤️',
 ];
   
   var wrapper = document.querySelector('.wrapper');
