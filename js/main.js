@@ -22,7 +22,7 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
   
   // Followers - Cambiar mensajes
   const messages = [
-  'Perdon',
+  'Perdon amor',
   'Te hice esta flor',
   'Espero te guste',
   'Te quiero mucho 💕',
